@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShoafStudio
-- 👀 I’m interested in front-end work, specifically with web3 projects. 
+- 👀 I’m interested in front-end work, with a bias towards web3 projects. 
 - A few examples of projects I have worked on: 
   - https://www.keystoken.io/
   - https://www.mykeycard.io/
