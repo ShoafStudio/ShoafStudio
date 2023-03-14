@@ -9,7 +9,6 @@
 
 - 📫 How to reach me: 
   - shoafstudio@gmail.com
-  - https://www.linkedin.com/in/stevenshoaf/
 
 <!---
 ShoafStudio/ShoafStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
