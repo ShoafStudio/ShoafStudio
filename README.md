@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @ShoafStudio
 - 👀 I’m interested in front-end work, with a bias towards web3 projects. 
 - A few examples of projects I have worked on: 
+  - https://quizmate.io/
   - https://www.keystoken.io/
   - https://www.mykeycard.io/
   - https://www.smolage.com/
   - https://corruptedstrengthgym.com/
   - https://www.dawnhearn.com/
+  - https://www.txh2elandscaping.com/
 
 - 📫 How to reach me: 
   - shoafstudio@gmail.com
