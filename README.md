@@ -28,12 +28,3 @@ Currently at the **NBA** · Former **Amazon (SDE II)** · **Clemson CS**
 📬 **Open to remote contracts:** [shoafsystems@gmail.com](mailto:shoafsystems@gmail.com)
 
 ---
-
-If you want, I can:
-
-* Make it more **technical / OSS-focused**
-* Tighten it for **recruiters**
-* Add a **metrics-driven flex** (users, scale, revenue)
-* Or compress it into a **super-minimal GitHub one-liner**
-
-Just say the vibe.
