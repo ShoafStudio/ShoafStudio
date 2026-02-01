@@ -1,6 +1,3 @@
-Here’s a cleaner, sharper GitHub bio that feels senior, confident, and builder-first—perfect for first impressions:
-
----
 
 # Hey, I’m Steven 👋
 
