@@ -8,8 +8,13 @@ Currently at the **NBA** · Former **Amazon (SDE II)** · **Clemson CS**
 ## Lastest Projects
 
 🎬 **[QuizMate.io](https://quizmate.io)** — AI-powered learning software
+
 🏢 **[Shoaf Systems](https://shoafsystems.com)** — Web platforms & AI voice assistants
+
 🌐 **[stevenshoaf.dev](https://stevenshoaf.dev)** — Portfolio & experiments
+
+🌐 **[shoaf.dev](https://stevenshoaf.dev)** — Teaching Devs how to ship better products
+
 
 ## Tech I Work With
 
