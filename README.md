@@ -3,7 +3,7 @@
 
 **Senior Full-Stack Engineer** focused on building scalable, production-grade systems.
 
-Currently at the **NBA** · Former **Amazon (SDE II)** · **Clemson CS**
+Former **Amazon (SDE II)** · **Clemson CS**
 
 ## Lastest Projects
 
