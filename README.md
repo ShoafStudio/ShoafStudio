@@ -11,7 +11,7 @@ Former **Amazon (SDE II)** · **Clemson CS**
 
 🌐 **[stevenshoaf.dev](https://stevenshoaf.dev)** — Portfolio & experiments
 
-🌐 **[shoaf.dev](https://shoaf.dev)** — Teaching Devs how to ship better products
+🌐 **[shoaf.dev](https://shoaf.dev/ig)** — Teaching Devs how to ship better products
 
 
 ## Tech I Work With
