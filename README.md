@@ -19,6 +19,5 @@ Former **Amazon (SDE II)** · **Clemson CS**
 * Shipping and scaling micro-SaaS products
 * Designing clean, maintainable systems that scale
 
-📬 **Open to remote contracts:** [shoafsystems@gmail.com](mailto:shoafsystems@gmail.com)
 
 ---
